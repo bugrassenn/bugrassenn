@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me bugra.sen@bil.omu.edu.tr
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
